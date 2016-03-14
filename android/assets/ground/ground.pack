@@ -1,0 +1,46 @@
+ground.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+grass
+  rotate: false
+  xy: 1, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+grass2
+  rotate: false
+  xy: 33, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+grass4
+  rotate: false
+  xy: 33, 33
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+flower
+  rotate: false
+  xy: 1, 93
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+flower2
+  rotate: false
+  xy: 33, 93
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+flower4
+  rotate: false
+  xy: 1, 125
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
